@@ -16,10 +16,10 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <nav className="p-4">
-          <div className="max-w-4xl mx-auto flex gap-4 text-purple-400">
-            <Link href="/" className="hover:text-purple-300"> Home</Link>
-            <Link href="/projects" className="hover:text-purple-300"> Projects</Link>
-            <Link href="/info" className="hover:text-purple-300"> Info</Link>
+          <div className="max-w-4xl mx-auto flex gap-4 text-purple-400 justify-center">
+            <Link href="/" className="hover:text-purple-300">{'>'} Home</Link>
+            <Link href="/projects" className="hover:text-purple-300">{'>'} Projects</Link>
+            <Link href="/info" className="hover:text-purple-300">{'>'} Info</Link>
           </div>
         </nav>
         {children}
