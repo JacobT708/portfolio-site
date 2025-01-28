@@ -26,6 +26,6 @@ portfolio-site/
 └── tailwind.config.js
 ```
 ## Contact
-- Website: [jacobthompson.xyz](https://jacobthompson.xyz)
+- Website: [[jacobthompson.xyz](https://jacobthompson.xyz)](https://portfolio-site-eight-pied.vercel.app/)
 - GitHub: [JacobT708](https://github.com/JacobT708)
 
