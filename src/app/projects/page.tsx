@@ -25,7 +25,7 @@ export default function Projects() {
         description: "This website was built using Next.js and Tailwind CSS. It showcases my projects and skills as a software developer.",
         type: "Personal Project",
         links: {
-          github: "",
+          github: "https://github.com/JacobT708/portfolio-site",
           website: "https://jacobthompson.xyz"
       }
     }
